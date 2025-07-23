@@ -26,12 +26,40 @@
 ![ISC2](https://img.shields.io/badge/ISC2-Certified-green?logo=isc2)
 ![EC-Council](https://img.shields.io/badge/Ethical%20Hacking%20Essentials-EC--Council-red)
 ![IBM](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-blue)
+![Coursera](https://img.shields.io/badge/Coursera-Google%20Cybersecurity-yellow)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-Web%20Security%20Mastery-orange)
+![Splunk](https://img.shields.io/badge/Splunk-Log%20Analysis%20Expert-lightgrey)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-brightgreen)
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanner-lightblue)
+![Security Onion](https://img.shields.io/badge/SecurityOnion-Incident%20Detection-purple)
+![Python](https://img.shields.io/badge/Python-Automation%20Scripting-blueviolet)
+![PowerShell](https://img.shields.io/badge/PowerShell-Forensics%20&%20Scripting-darkblue)
 
-### ⚙️ Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,java,docker,git,github,vscode,gcp&perline=6" />
-</p>
+### 🛠️ Cyber Arsenal
+
+#### 🔧 Tools of War
+- Burp Suite, Nmap, Wireshark, Hydra, Metasploit, Netcat
+- Security Onion, Zeek, Suricata, Splunk
+- Nessus, OpenVAS, Nikto
+- Enum4linux, SMBClient, LinPEAS, WinPEAS, Impacket
+
+#### 🌐 Domains Mastered
+- Web App Pentesting (OWASP Top 10)
+- Network Scanning and Reconnaissance
+- Vulnerability Assessment and Reporting
+- Log Analysis and Threat Hunting
+- Cloud Security (GCP, IAM, Compute, Storage)
+- Social Engineering Awareness
+- Digital Forensics Basics
+
+#### 🔪 Offensive Techniques
+- XSS, SQLi, Command Injection, CSRF
+- File Upload Exploits, LFI/RFI
+- Password Cracking & Credential Stuffing
+- Privilege Escalation (Linux & Windows)
+- Lateral Movement & Pivoting
 
 ---
 
@@ -39,6 +67,10 @@
 
 - 🛡️ [Virtual SOC Lab](https://github.com/tanmoydaw26): Splunk, Security Onion, Zeek/Suricata for real-world log analysis.
 - ⚔️ [TryHackMe Labs](https://tryhackme.com/p/BORDA26): 40+ labs covering enumeration, privilege escalation, and exploitation.
+- 🚀 [Google Cloud Arcade Labs](https://www.cloudskillsboost.google/public_profiles/b773a6e3-4eae-402b-afe4-53746a81881b): IAM, GKE, Compute Engine, BigQuery
+- 🔎 [Threat Hunter Toolkit](https://github.com/tanmoydaw26): Custom scripts & tools for malware detection and IOC hunting
+- 🕵️ [Recon Wizard](https://github.com/tanmoydaw26): Python-based automation for reconnaissance during pentests
+- 🎓 [Cyber Range Practice Lab](#): Internal environment simulating enterprise attacks and detection
 
 > “The quieter you become, the more you are able to hear the system’s whispers.”
 
@@ -50,10 +82,12 @@
   - [Season 1](https://www.cloudskillsboost.google/public_profiles/b773a6e3-4eae-402b-afe4-53746a81881b)
   - [Season 2](https://www.cloudskillsboost.google/public_profiles/a6880598-875e-43f9-ad16-435102e980eb)
 - 🚀 Reported valid vulnerability to NASA via Bugcrowd
+- 🥇 Completed over 40+ TryHackMe labs
+- 🎓 3+ months of penetration testing internship at DataSpace Security
 
 ---
 
-### 🌐 Cyber Presence
+### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanmoy-daw-a27a162aa)
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github)](https://github.com/tanmoydaw26)
@@ -67,6 +101,11 @@
 > 🧠 "Hack the planet, secure the future."
 > 🔥 "In code we trust, in firewalls we break."
 > 🕵️ "You may shut down the system, but never the mindset."
+> 🔋 "There is no patch for human stupidity — but we try anyway."
+> 🚀 "Firewalls are the castles, but humans are the gates."
+> ⚔️ "Every exploit is a story. Every log is a clue."
+> 🔫 "Threats evolve. So do I."
+> 🌐 "Cybersecurity isn't a job. It's a state of mind."
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanmoydaw26&show_icons=true&theme=radical" />
@@ -74,7 +113,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tanmoydaw26&theme=matrix&margin-w=15&no-frame=true" />
 </p>
 
-![snake gif](https://github.com/tanmoydaw26/tanmoydaw26/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/tanmoydaw26/tanmoydaw26/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanmoydaw26)
 
