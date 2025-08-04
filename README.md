@@ -12,6 +12,7 @@
 🧑‍💻 Tanmoy Daw  
 💣 Penetration Tester | SOC Analyst | Cybersecurity Engineer  
 🛡️ BTech in Cybersecurity | 8.0 CGPA | GCP Skilled | Bug Hunter  
+🏆 Certified Ethical Hacker (CEH v13 Master) — EC-Council  
 🎯 Mission: Secure, Hunt, and Exploit — before the enemy does.
 ```
 
@@ -21,9 +22,10 @@
 
 ### 🛡️ Certifications
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-Skilled-informational?style=flat&logo=googlecloud)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%3A%20Intermediate-red?logo=tryhackme&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-Skilled-informational?style=flat\&logo=googlecloud)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%3A%20Intermediate-red?logo=tryhackme\&logoColor=white)
 ![ISC2](https://img.shields.io/badge/ISC2-Certified-green?logo=isc2)
+![EC-Council](https://img.shields.io/badge/CEH%20v13%20Master-EC--Council-critical)
 ![EC-Council](https://img.shields.io/badge/Ethical%20Hacking%20Essentials-EC--Council-red)
 ![IBM](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-blue)
 ![Coursera](https://img.shields.io/badge/Coursera-Google%20Cybersecurity-yellow)
@@ -40,37 +42,40 @@
 ### 🛠️ Cyber Arsenal
 
 #### 🔧 Tools of War
-- Burp Suite, Nmap, Wireshark, Hydra, Metasploit, Netcat
-- Security Onion, Zeek, Suricata, Splunk
-- Nessus, OpenVAS, Nikto
-- Enum4linux, SMBClient, LinPEAS, WinPEAS, Impacket
+
+* Burp Suite, Nmap, Wireshark, Hydra, Metasploit, Netcat
+* Security Onion, Zeek, Suricata, Splunk
+* Nessus, OpenVAS, Nikto
+* Enum4linux, SMBClient, LinPEAS, WinPEAS, Impacket
 
 #### 🌐 Domains Mastered
-- Web App Pentesting (OWASP Top 10)
-- Network Scanning and Reconnaissance
-- Vulnerability Assessment and Reporting
-- Log Analysis and Threat Hunting
-- Cloud Security (GCP, IAM, Compute, Storage)
-- Social Engineering Awareness
-- Digital Forensics Basics
+
+* Web App Pentesting (OWASP Top 10)
+* Network Scanning and Reconnaissance
+* Vulnerability Assessment and Reporting
+* Log Analysis and Threat Hunting
+* Cloud Security (GCP, IAM, Compute, Storage)
+* Social Engineering Awareness
+* Digital Forensics Basics
 
 #### 🔪 Offensive Techniques
-- XSS, SQLi, Command Injection, CSRF
-- File Upload Exploits, LFI/RFI
-- Password Cracking & Credential Stuffing
-- Privilege Escalation (Linux & Windows)
-- Lateral Movement & Pivoting
+
+* XSS, SQLi, Command Injection, CSRF
+* File Upload Exploits, LFI/RFI
+* Password Cracking & Credential Stuffing
+* Privilege Escalation (Linux & Windows)
+* Lateral Movement & Pivoting
 
 ---
 
 ### 📊 Featured Ops (Projects)
 
-- 🛡️ [Virtual SOC Lab](https://github.com/tanmoydaw26): Splunk, Security Onion, Zeek/Suricata for real-world log analysis.
-- ⚔️ [TryHackMe Labs](https://tryhackme.com/p/BORDA26): 40+ labs covering enumeration, privilege escalation, and exploitation.
-- 🚀 [Google Cloud Arcade Labs](https://www.cloudskillsboost.google/public_profiles/b773a6e3-4eae-402b-afe4-53746a81881b): IAM, GKE, Compute Engine, BigQuery
-- 🔎 [Threat Hunter Toolkit](https://github.com/tanmoydaw26): Custom scripts & tools for malware detection and IOC hunting
-- 🕵️ [Recon Wizard](https://github.com/tanmoydaw26): Python-based automation for reconnaissance during pentests
-- 🎓 [Cyber Range Practice Lab](#): Internal environment simulating enterprise attacks and detection
+* 🛡️ [Virtual SOC Lab](https://github.com/tanmoydaw26): Splunk, Security Onion, Zeek/Suricata for real-world log analysis.
+* ⚔️ [TryHackMe Labs](https://tryhackme.com/p/BORDA26): 40+ labs covering enumeration, privilege escalation, and exploitation.
+* 🚀 [Google Cloud Arcade Labs](https://www.cloudskillsboost.google/public_profiles/b773a6e3-4eae-402b-afe4-53746a81881b): IAM, GKE, Compute Engine, BigQuery
+* 🔎 [Threat Hunter Toolkit](https://github.com/tanmoydaw26): Custom scripts & tools for malware detection and IOC hunting
+* 🕵️ [Recon Wizard](https://github.com/tanmoydaw26): Python-based automation for reconnaissance during pentests
+* 🎓 [Cyber Range Practice Lab](#): Internal environment simulating enterprise attacks and detection
 
 > “The quieter you become, the more you are able to hear the system’s whispers.”
 
@@ -78,21 +83,23 @@
 
 ### 🏆 Achievements
 
-- 🏅 **Top 2%** in Google Cloud Arcade (Cloud Security, GKE, IAM, BigQuery)
-  - [Season 1](https://www.cloudskillsboost.google/public_profiles/b773a6e3-4eae-402b-afe4-53746a81881b)
-  - [Season 2](https://www.cloudskillsboost.google/public_profiles/a6880598-875e-43f9-ad16-435102e980eb)
-- 🚀 Reported valid vulnerability to NASA via Bugcrowd
-- 🥇 Completed over 40+ TryHackMe labs
-- 🎓 3+ months of penetration testing internship at DataSpace Security
+* 🧠 Achieved **Certified Ethical Hacker (CEH v13 Master)** — EC-Council
+* 🏅 **Top 2%** in Google Cloud Arcade (Cloud Security, GKE, IAM, BigQuery)
+
+  * [Season 1](https://www.cloudskillsboost.google/public_profiles/b773a6e3-4eae-402b-afe4-53746a81881b)
+  * [Season 2](https://www.cloudskillsboost.google/public_profiles/a6880598-875e-43f9-ad16-435102e980eb)
+* 🚀 Reported valid vulnerability to NASA via Bugcrowd
+* 🥇 Completed over 40+ TryHackMe labs
+* 🎓 3+ months of penetration testing internship at DataSpace Security
 
 ---
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanmoy-daw-a27a162aa)
-[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github)](https://github.com/tanmoydaw26)
-[![Mail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:tanmoydawdaw@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-critical?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/BORDA26)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tanmoy-daw-a27a162aa)
+[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=for-the-badge\&logo=github)](https://github.com/tanmoydaw26)
+[![Mail](https://img.shields.io/badge/-Email-red?style=for-the-badge\&logo=gmail)](mailto:tanmoydawdaw@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-critical?style=for-the-badge\&logo=tryhackme)](https://tryhackme.com/p/BORDA26)
 
 ---
 
